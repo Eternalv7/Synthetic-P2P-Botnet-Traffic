@@ -1,2 +1,3 @@
 # Synthetic-P2P-Botnet-Traffic
-Tis repository contains synthetic P2P botnet dataset generated in testbed.
+This repository contains synthetic P2P botnet dataset generated in testbed.
+The traffic was collected as netflow data. 
